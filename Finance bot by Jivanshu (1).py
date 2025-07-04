@@ -15,7 +15,7 @@
 # In[26]:
 
 
-get_ipython().system('pip install langchain langchain-community openai streamlit')
+
 
 
 # In[10]:
