@@ -4,7 +4,7 @@
 # In[1]:
 
 
-pip install langchain langchain-community openai streamlit
+!pip install langchain langchain-community openai streamlit
 
 
 # In[6]:
