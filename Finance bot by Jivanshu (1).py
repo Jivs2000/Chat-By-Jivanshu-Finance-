@@ -21,13 +21,6 @@
 # In[10]:
 
 
-import os
-import streamlit as st
-from langchain_core.prompts 
-from langchain_openai I
-from langchain_core.output_parsers i
-from langchain.chains 
-
 
 # In[12]:
 
