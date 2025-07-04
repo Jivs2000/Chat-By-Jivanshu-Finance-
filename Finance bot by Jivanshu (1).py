@@ -4,13 +4,12 @@
 # In[1]:
 
 
-!pip install langchain langchain-community openai streamlit
 
 
 # In[6]:
 
 
-pip install langchain-openai
+
 
 
 # In[26]:
